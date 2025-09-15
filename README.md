@@ -1,6 +1,6 @@
-# Trinetra - AI-Powered Data Preparation Assistant
+# DeepClean - AI-Powered Data Preparation Assistant
 
-Trinetra is a powerful AI-driven application that helps users prepare, clean, and enhance various types of data including CSV files, PDFs, and images. The application leverages advanced AI capabilities to automate data quality checks, implement data cleaning operations, and provide intelligent data processing solutions.
+DeepClean is a powerful AI-driven application that helps users prepare, clean, and enhance various types of data including CSV files, PDFs, and images. The application leverages advanced AI capabilities to automate data quality checks, implement data cleaning operations, and provide intelligent data processing solutions.
 
 ## Features
 
@@ -29,8 +29,8 @@ Trinetra is a powerful AI-driven application that helps users prepare, clean, an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Trinetra.git
-cd Trinetra
+git clone https://github.com/doodle-pro/DeepClean.git
+cd DeepClean
 ```
 
 2. Install the required dependencies:
@@ -66,7 +66,7 @@ streamlit run streamlit_app.py
 ## Project Structure
 
 ```
-Trinetra/
+DeepClean/
 ├── backend/
 │   ├── data_preparation_gemini.py
 │   ├── data_quality_checks.py
